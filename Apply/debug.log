@@ -8,3 +8,8 @@
 [1203/204711.189:ERROR:crash_report_exception_handler.cc(113)] WriteEverything failed
 [1203/204711.190:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Crashpad\reports\7393b0aa-d24c-4fb3-8b15-236a954b6fb1.dmp: The process cannot access the file because it is being used by another process. (0x20)
 [1203/204711.191:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Crashpad\reports\6984420e-8f2c-40dc-95c6-414a55b034b0.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[1207/224446.856:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\6984420e-8f2c-40dc-95c6-414a55b034b0: The system cannot find the path specified. (0x3)
+[1207/224446.863:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\7393b0aa-d24c-4fb3-8b15-236a954b6fb1: The system cannot find the path specified. (0x3)
+[1207/224446.872:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Administrator\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\f7c60479-25af-4b32-9e23-146a558a73c0: The system cannot find the path specified. (0x3)
+[1207/224446.876:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1209/122718.194:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
